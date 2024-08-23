@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/ddxy/Downloads/source/pointcloud/kinect/camera1/build",
+  "command": "/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_IOSTREAMS_DYN_LINK -DBOOST_IOSTREAMS_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Dkiss_fft_scalar=double -I/home/ddxy/Downloads/source/pointcloud/kinect/camera1/. -isystem /usr/local/include/pcl-1.13 -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv4 -isystem /usr/local/include/vtk-9.3 -isystem /usr/local/include/vtk-9.3/vtknlohmannjson/include -isystem /usr/local/include/vtk-9.3/vtkfreetype/include -g -msse4.2 -mfpmath=sse -march=native -mavx2 -o CMakeFiles/v1.dir/src/camera.cpp.o -c /home/ddxy/Downloads/source/pointcloud/kinect/camera1/src/camera.cpp",
+  "file": "/home/ddxy/Downloads/source/pointcloud/kinect/camera1/src/camera.cpp",
+  "output": "CMakeFiles/v1.dir/src/camera.cpp.o"
+},
+{
+  "directory": "/home/ddxy/Downloads/source/pointcloud/kinect/camera1/build",
+  "command": "/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_IOSTREAMS_DYN_LINK -DBOOST_IOSTREAMS_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Dkiss_fft_scalar=double -I/home/ddxy/Downloads/source/pointcloud/kinect/camera1/. -isystem /usr/local/include/pcl-1.13 -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv4 -isystem /usr/local/include/vtk-9.3 -isystem /usr/local/include/vtk-9.3/vtknlohmannjson/include -isystem /usr/local/include/vtk-9.3/vtkfreetype/include -g -msse4.2 -mfpmath=sse -march=native -mavx2 -o CMakeFiles/v1.dir/src/pointcloud.cpp.o -c /home/ddxy/Downloads/source/pointcloud/kinect/camera1/src/pointcloud.cpp",
+  "file": "/home/ddxy/Downloads/source/pointcloud/kinect/camera1/src/pointcloud.cpp",
+  "output": "CMakeFiles/v1.dir/src/pointcloud.cpp.o"
+}
+]
